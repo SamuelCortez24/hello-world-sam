@@ -1,0 +1,15 @@
+C:\Users\Samu\hello-world-sam\bin\Debug\net10.0\hello-world-sam.exe
+C:\Users\Samu\hello-world-sam\bin\Debug\net10.0\hello-world-sam.deps.json
+C:\Users\Samu\hello-world-sam\bin\Debug\net10.0\hello-world-sam.runtimeconfig.json
+C:\Users\Samu\hello-world-sam\bin\Debug\net10.0\hello-world-sam.dll
+C:\Users\Samu\hello-world-sam\bin\Debug\net10.0\hello-world-sam.pdb
+C:\Users\Samu\hello-world-sam\obj\Debug\net10.0\hello-world-sam.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samu\hello-world-sam\obj\Debug\net10.0\hello-world-sam.AssemblyInfoInputs.cache
+C:\Users\Samu\hello-world-sam\obj\Debug\net10.0\hello-world-sam.AssemblyInfo.cs
+C:\Users\Samu\hello-world-sam\obj\Debug\net10.0\hello-world-sam.csproj.CoreCompileInputs.cache
+C:\Users\Samu\hello-world-sam\obj\Debug\net10.0\hello-world-sam.sourcelink.json
+C:\Users\Samu\hello-world-sam\obj\Debug\net10.0\hello-world-sam.dll
+C:\Users\Samu\hello-world-sam\obj\Debug\net10.0\refint\hello-world-sam.dll
+C:\Users\Samu\hello-world-sam\obj\Debug\net10.0\hello-world-sam.pdb
+C:\Users\Samu\hello-world-sam\obj\Debug\net10.0\hello-world-sam.genruntimeconfig.cache
+C:\Users\Samu\hello-world-sam\obj\Debug\net10.0\ref\hello-world-sam.dll
