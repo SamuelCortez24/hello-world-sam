@@ -15,7 +15,7 @@ This is a C# console application that allows users to enter multiple grades and 
 - Displays letter grade
 
 ## Video
-[VIDEO LINK]
+[Watch the video here](https://youtu.be/kw4Z6dduE58)
 
 ## Author
 Samuel Cortez

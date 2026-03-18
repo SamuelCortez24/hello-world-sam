@@ -12,3 +12,4 @@ C:\Users\Samu\hello-world-sam\GradeCalculator\obj\Debug\net10.0\refint\GradeCalc
 C:\Users\Samu\hello-world-sam\GradeCalculator\obj\Debug\net10.0\GradeCalculator.pdb
 C:\Users\Samu\hello-world-sam\GradeCalculator\obj\Debug\net10.0\GradeCalculator.genruntimeconfig.cache
 C:\Users\Samu\hello-world-sam\GradeCalculator\obj\Debug\net10.0\ref\GradeCalculator.dll
+C:\Users\Samu\hello-world-sam\GradeCalculator\obj\Debug\net10.0\GradeCalculator.sourcelink.json
