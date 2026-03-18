@@ -1,0 +1,15 @@
+C:\Users\Samu\hello-world-sam\GradeCalculator\bin\Debug\net10.0\GradeCalculator.exe
+C:\Users\Samu\hello-world-sam\GradeCalculator\bin\Debug\net10.0\GradeCalculator.deps.json
+C:\Users\Samu\hello-world-sam\GradeCalculator\bin\Debug\net10.0\GradeCalculator.runtimeconfig.json
+C:\Users\Samu\hello-world-sam\GradeCalculator\bin\Debug\net10.0\GradeCalculator.dll
+C:\Users\Samu\hello-world-sam\GradeCalculator\bin\Debug\net10.0\GradeCalculator.pdb
+C:\Users\Samu\hello-world-sam\GradeCalculator\obj\Debug\net10.0\GradeCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Samu\hello-world-sam\GradeCalculator\obj\Debug\net10.0\GradeCalculator.AssemblyInfoInputs.cache
+C:\Users\Samu\hello-world-sam\GradeCalculator\obj\Debug\net10.0\GradeCalculator.AssemblyInfo.cs
+C:\Users\Samu\hello-world-sam\GradeCalculator\obj\Debug\net10.0\GradeCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Samu\hello-world-sam\GradeCalculator\obj\Debug\net10.0\GradeCalculator.sourcelink.json
+C:\Users\Samu\hello-world-sam\GradeCalculator\obj\Debug\net10.0\GradeCalculator.dll
+C:\Users\Samu\hello-world-sam\GradeCalculator\obj\Debug\net10.0\refint\GradeCalculator.dll
+C:\Users\Samu\hello-world-sam\GradeCalculator\obj\Debug\net10.0\GradeCalculator.pdb
+C:\Users\Samu\hello-world-sam\GradeCalculator\obj\Debug\net10.0\GradeCalculator.genruntimeconfig.cache
+C:\Users\Samu\hello-world-sam\GradeCalculator\obj\Debug\net10.0\ref\GradeCalculator.dll
