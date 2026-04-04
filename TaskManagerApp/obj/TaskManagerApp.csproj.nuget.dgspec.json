@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Samu\\hello-world-sam\\GradeCalculator\\GradeCalculator.csproj": {}
+    "C:\\Users\\Samu\\hello-world-sam\\TaskManagerApp\\TaskManagerApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Samu\\hello-world-sam\\GradeCalculator\\GradeCalculator.csproj": {
+    "C:\\Users\\Samu\\hello-world-sam\\TaskManagerApp\\TaskManagerApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Samu\\hello-world-sam\\GradeCalculator\\GradeCalculator.csproj",
-        "projectName": "GradeCalculator",
-        "projectPath": "C:\\Users\\Samu\\hello-world-sam\\GradeCalculator\\GradeCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\Samu\\hello-world-sam\\TaskManagerApp\\TaskManagerApp.csproj",
+        "projectName": "TaskManagerApp",
+        "projectPath": "C:\\Users\\Samu\\hello-world-sam\\TaskManagerApp\\TaskManagerApp.csproj",
         "packagesPath": "C:\\Users\\Samu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Samu\\hello-world-sam\\GradeCalculator\\obj\\",
+        "outputPath": "C:\\Users\\Samu\\hello-world-sam\\TaskManagerApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Samu\\AppData\\Roaming\\NuGet\\NuGet.Config"
